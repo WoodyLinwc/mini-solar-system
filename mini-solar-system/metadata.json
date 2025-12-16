@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Solar System",
+  "description": "An interactive 3D solar system visualization using React Three Fiber. Click on planets to learn more about them using Google Gemini.",
+  "requestFramePermissions": []
+}
