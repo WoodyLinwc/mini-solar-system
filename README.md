@@ -17,5 +17,5 @@ An interactive 3D solar system visualization built with **React Three Fiber**, f
 
 - NASA for planetary imagery
 - React Three Fiber community for excellent 3D tools
-- Gemini 2.5 (Google AI Studio)
+- Gemini 3 Pro Preview (Google AI Studio)
 - Woody Lin for... well, you'll see
